@@ -236,7 +236,7 @@ chmod 600 config/*.php
 - FAQ: `docs/faq.md`
 
 ### Community
-- GitHub Issues: https://github.com/spacenet/saas/issues
+- GitHub Issues: https://github.com/njiriely/spacenet-wifi-billing-saas/issues
 - Community Forum: https://community.spacenet.co.ke
 - Documentation: https://docs.spacenet.co.ke
 
@@ -257,4 +257,5 @@ This software is licensed under the MIT License. See LICENSE file for details.
 - MikroTik integration
 - M-Pesa and PesaPal support
 - Real-time analytics
+
 - Mobile-responsive interface
